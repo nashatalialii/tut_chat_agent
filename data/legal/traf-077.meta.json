@@ -1,0 +1,48 @@
+{
+  "documentId": "TRAF-077",
+  "documentTitle": "أي مخالفة أخرى واردة في قانون المرور أو القرارات المنفذة له لا توجد لها عقوبة خاصة أشد",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "77",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "9c82ec0a40f4db4e352b62f661f4bf8473686cd602240c04355c560e44e1fbba",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مخالفة",
+    "أخرى",
+    "واردة",
+    "القرارات",
+    "المنفذة",
+    "توجد",
+    "لها",
+    "عقوبة",
+    "خاصة",
+    "أشد",
+    "مخالفات"
+  ],
+  "queryVariants": [
+    "ما عقوبة أي مخالفة أخرى واردة في قانون المرور أو القرارات المنفذة له لا توجد لها عقوبة خاصة أشد؟",
+    "غرامة أي مخالفة أخرى واردة في قانون المرور أو القرارات المنفذة له لا توجد لها عقوبة خاصة أشد كام؟",
+    "لو حصل أي مخالفة أخرى واردة في قانون المرور أو القرارات المنفذة له لا توجد لها عقوبة خاصة أشد يحصل إيه؟"
+  ]
+}

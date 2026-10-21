@@ -1,0 +1,48 @@
+{
+  "documentId": "TRAF-072",
+  "documentTitle": "ارتكاب فعل مخالف للآداب داخل المركبة، أو سماح قائد المركبة بارتكابه",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "72",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "eaa1e98cf3002aca473cdae05d4d2920512b0879020ef628720f798acea6ad7d",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "ارتكاب",
+    "فعل",
+    "مخالف",
+    "للآداب",
+    "داخل",
+    "المركبة،",
+    "سماح",
+    "قائد",
+    "بارتكابه",
+    "الآداب",
+    "العامة"
+  ],
+  "queryVariants": [
+    "ما عقوبة ارتكاب فعل مخالف للآداب داخل المركبة، أو سماح قائد المركبة بارتكابه؟",
+    "غرامة ارتكاب فعل مخالف للآداب داخل المركبة، أو سماح قائد المركبة بارتكابه كام؟",
+    "لو حصل ارتكاب فعل مخالف للآداب داخل المركبة، أو سماح قائد المركبة بارتكابه يحصل إيه؟"
+  ]
+}

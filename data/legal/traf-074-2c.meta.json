@@ -1,0 +1,51 @@
+{
+  "documentId": "TRAF-074-2C",
+  "documentTitle": "عدم إرشاد الشرطة/المرور إلى اسم وعنوان من كان يقود المركبة في الوقت المطلوب عند طلب ذلك ممن يلزمه القانون",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74/2 مع 68",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "c694fbb0ac1144cbb306efbcd442e4f2ae8de542002ab1045872a0a7b7309bee",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED",
+    "GAZETTE-LAW-17-2024"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973",
+    "https://egyptianlaws.com/?p=189688"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "إرشاد",
+    "الشرطة",
+    "اسم",
+    "وعنوان",
+    "كان",
+    "يقود",
+    "الوقت",
+    "المطلوب",
+    "طلب",
+    "ذلك",
+    "ممن",
+    "يلزمه"
+  ],
+  "queryVariants": [
+    "ما عقوبة عدم إرشاد الشرطة/المرور إلى اسم وعنوان من كان يقود المركبة في الوقت المطلوب عند طلب ذلك ممن يلزمه القانون؟",
+    "غرامة عدم إرشاد الشرطة/المرور إلى اسم وعنوان من كان يقود المركبة في الوقت المطلوب عند طلب ذلك ممن يلزمه القانون كام؟",
+    "لو حصل عدم إرشاد الشرطة/المرور إلى اسم وعنوان من كان يقود المركبة في الوقت المطلوب عند طلب ذلك ممن يلزمه القانون يحصل إيه؟"
+  ]
+}

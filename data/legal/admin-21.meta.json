@@ -1,0 +1,45 @@
+{
+  "documentId": "ADMIN-21",
+  "documentTitle": "عدم الإخطار عن تغيير المسؤول/الملكية بسبب الوفاة في المواعيد القانونية",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "21",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "5317968623bf534d311da6bc2344d7df922fcb63e21cdbc8aa7c5ae2db088cef",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "الإخطار",
+    "تغيير",
+    "المسؤول",
+    "الملكية",
+    "بسبب",
+    "الوفاة",
+    "المواعيد",
+    "القانونية"
+  ],
+  "queryVariants": [
+    "إيه الإجراء في حالة عدم الإخطار عن تغيير المسؤول/الملكية بسبب الوفاة في المواعيد القانونية؟",
+    "الرخصة يحصل لها إيه لو عدم الإخطار عن تغيير المسؤول/الملكية بسبب الوفاة في المواعيد القانونية؟",
+    "لو حصل عدم الإخطار عن تغيير المسؤول/الملكية بسبب الوفاة في المواعيد القانونية أعمل إيه؟"
+  ]
+}

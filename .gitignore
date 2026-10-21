@@ -1,0 +1,16 @@
+node_modules
+.next
+dist
+.env
+.env.local
+.DS_Store
+data/uploads/*
+data/chroma/*
+data/redis/*
+*.log
+data/index/*
+data/quarantine/*
+!data/index/.gitkeep
+!data/quarantine/.gitkeep
+
+*.tsbuildinfo

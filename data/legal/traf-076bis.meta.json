@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-076BIS",
+  "documentTitle": "تعمد السير عكس الاتجاه بالطريق العام داخل المدن أو خارجها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "76 مكررا",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "22f6bf313f133708ccd05d8c935711a8367396a88cb0ef882e887c794ba5545b",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "requires_case_assessment",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-058"
+  ],
+  "intents": [
+    "wrong_way_no_accident"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "عكس الاتجاه",
+    "عكس السير",
+    "شارع اتجاه واحد"
+  ],
+  "queryVariants": [
+    "السير عكس الاتجاه عقوبته إيه من غير حادث؟",
+    "مشيت عكس الاتجاه ومفيش حادث؟",
+    "غرامة عكس الاتجاه؟",
+    "دخلت شارع عكس السير؟"
+  ]
+}

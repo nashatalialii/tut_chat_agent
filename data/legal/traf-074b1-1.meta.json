@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-074B1-1",
+  "documentTitle": "استعمال آلة التنبيه في غير حالة تنبيه لازمة لمنع ضرر جسيم محدق",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/1 (الفقرة المستقلة)",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "dbbfb106ab9a1627b558da58b978fcab6d4fe404e873a5f48144a2f6f9c4e77d",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-009"
+  ],
+  "intents": [
+    "horn_misuse"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "كلاكس",
+    "زمور",
+    "آلة التنبيه"
+  ],
+  "queryVariants": [
+    "استخدام الكلاكس من غير سبب مخالف؟",
+    "الكلاكس الكتير عليه غرامة؟",
+    "استخدام آلة التنبيه في غير الضرورة؟",
+    "الزمور من غير سبب مخالفته كام؟"
+  ]
+}

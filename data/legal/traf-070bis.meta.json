@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-070BIS",
+  "documentTitle": "مخالفة المسار الإلزامي لمركبات النقل/النقل العام/الميكروباص/السياحة والرحلات أو تجاوز السرعة المحددة لها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "70 مكررا",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "9a5ed37ac943a25ffddfae8765c55090233c14cca0fc45bb46224720d89e08ac",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-068"
+  ],
+  "intents": [
+    "microbus_route"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "ميكروباص",
+    "خط سير",
+    "مسار إلزامي"
+  ],
+  "queryVariants": [
+    "الميكروباص لو غير خط السير عليه مخالفة؟",
+    "سواق الميكروباص خرج عن الخط؟",
+    "مخالفة خط سير الميكروباص؟",
+    "تغيير المسار الإلزامي للنقل؟"
+  ]
+}

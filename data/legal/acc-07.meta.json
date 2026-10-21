@@ -1,0 +1,45 @@
+{
+  "documentId": "ACC-07",
+  "documentTitle": "وفاة أكثر من ثلاثة أشخاص",
+  "documentType": "other",
+  "lawNumber": "58",
+  "lawYear": "1937",
+  "articleNumber": "عقوبات 238/3",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "قانون العقوبات رقم 58 لسنة 1937 - المواد 238 و244",
+  "sourceUrl": "https://manshurat.org/node/14677",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "96df9a9757936696cf42ae0cbdd1993f3632950d10f539b836978d8be38be9ff",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "legal_text_database",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-PENAL-58-1937"
+  ],
+  "sourceUrls": [
+    "https://manshurat.org/node/14677"
+  ],
+  "faqIds": [
+    "FAQ-EG-053"
+  ],
+  "intents": [
+    "accident_many_deaths"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "أكثر من ثلاثة وفيات",
+    "حادث جماعي",
+    "قتل خطأ"
+  ],
+  "queryVariants": [
+    "لو الحادث تسبب في وفاة أكتر من 3 أشخاص؟",
+    "حادث فيه أربع وفيات؟",
+    "وفاة أكثر من ثلاثة في حادث؟",
+    "حادث جماعي وفيات كتير؟"
+  ]
+}

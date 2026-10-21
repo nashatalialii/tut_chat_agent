@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sample-speed-formal",
+    "question": "ما النص المتاح عن تجاوز السرعة؟",
+    "expected_source": "egypt_traffic_law_sample.md",
+    "expected_article": null,
+    "expected_topic": "تجاوز السرعة",
+    "expected_answer": null,
+    "requires_verified_legal_source": false
+  },
+  {
+    "id": "sample-wrong-way-egyptian",
+    "question": "هو لو واحد ماشي عكس الاتجاه المصدر المتاح بيقول ايه؟",
+    "expected_source": "egypt_traffic_law_sample.md",
+    "expected_article": null,
+    "expected_topic": "السير عكس الاتجاه",
+    "expected_answer": null,
+    "requires_verified_legal_source": false
+  },
+  {
+    "id": "sample-parking-misspelling",
+    "question": "الانتضار الغلط موجود عنه ايه؟",
+    "expected_source": "egypt_traffic_law_sample.md",
+    "expected_article": null,
+    "expected_topic": "الانتظار الخاطئ",
+    "expected_answer": null,
+    "requires_verified_legal_source": false
+  },
+  {
+    "id": "missing-article-72",
+    "question": "المادة 72 بتقول ايه؟",
+    "expected_source": null,
+    "expected_article": "72",
+    "expected_topic": null,
+    "expected_answer": null,
+    "requires_verified_legal_source": true
+  },
+  {
+    "id": "missing-specific-fine",
+    "question": "غرامة السير عكس الاتجاه كام بالضبط؟",
+    "expected_source": null,
+    "expected_article": null,
+    "expected_topic": "السير عكس الاتجاه",
+    "expected_answer": null,
+    "requires_verified_legal_source": true
+  }
+]

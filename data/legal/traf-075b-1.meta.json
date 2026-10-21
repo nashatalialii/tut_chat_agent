@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-075B-1",
+  "documentTitle": "عدم تركيب جهاز محدد السرعة أو جهاز تسجيل البيانات في المركبات التي يوجب القانون تجهيزها بهما",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "75 مكررا/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "bc2dc807d19a971cd544c23be46ffb24b671a50612ffca6bc6978eb97bd19292",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-074"
+  ],
+  "intents": [
+    "speed_limiter_recorder"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "محدد السرعة",
+    "مسجل بيانات",
+    "نقل"
+  ],
+  "queryVariants": [
+    "عدم تركيب محدد السرعة أو مسجل البيانات عقوبته إيه؟",
+    "عربية النقل من غير محدد سرعة؟",
+    "مسجل البيانات مش موجود؟",
+    "جهاز تحديد السرعة إلزامي لمين؟"
+  ]
+}

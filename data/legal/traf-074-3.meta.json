@@ -1,0 +1,46 @@
+{
+  "documentId": "TRAF-074-3",
+  "documentTitle": "عدم اتباع إشارات وعلامات المرور أو تعليمات رجال المرور المنظمة للسير",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74/3",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "2f0d189e647881e345d5d9ac4b2f849ab5954e0cffdfbaec7106576635f02834",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-006"
+  ],
+  "intents": [
+    "red_light_signal"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "إشارة",
+    "إشارة حمراء",
+    "علامات المرور",
+    "رجل المرور"
+  ],
+  "queryVariants": [
+    "قطع الإشارة أو عدم الالتزام بإشارة المرور عقوبته إيه؟",
+    "عديت الإشارة، الغرامة كام؟",
+    "مخالفة الإشارة الحمرا؟",
+    "لو ما التزمتش بتعليمات رجل المرور؟"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-074B-4",
+  "documentTitle": "عدم استخدام قائد الدراجة الآلية غطاء الرأس الواقي (الخوذة)",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/4",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "c62fd4ce567cc7e9920ccdfd1c203f615606708caa234b675f3b417da5e7fe46",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-075"
+  ],
+  "intents": [
+    "motorcycle_helmet"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "خوذة",
+    "موتوسيكل",
+    "دراجة نارية"
+  ],
+  "queryVariants": [
+    "غرامة عدم لبس الخوذة للموتوسيكل كام؟",
+    "سايق موتوسيكل من غير خوذة؟",
+    "الخوذة إجبارية؟",
+    "عدم ارتداء غطاء الرأس الواقي؟"
+  ]
+}

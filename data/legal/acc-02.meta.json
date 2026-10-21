@@ -1,0 +1,46 @@
+{
+  "documentId": "ACC-02",
+  "documentTitle": "إصابة خطأ بسبب الإهمال/الرعونة/عدم الاحتراز/مخالفة القوانين واللوائح",
+  "documentType": "other",
+  "lawNumber": "58",
+  "lawYear": "1937",
+  "articleNumber": "عقوبات 244/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "قانون العقوبات رقم 58 لسنة 1937 - المواد 238 و244",
+  "sourceUrl": "https://manshurat.org/node/14677",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "1dccd2fb824ac0c5d8f361d99a4773b84773d56e23b01ca33f80665588809dcc",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "legal_text_database",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-PENAL-58-1937"
+  ],
+  "sourceUrls": [
+    "https://manshurat.org/node/14677"
+  ],
+  "faqIds": [
+    "FAQ-EG-049"
+  ],
+  "intents": [
+    "accident_injury_basic"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "حادث",
+    "إصابة",
+    "إصابة خطأ",
+    "خبطت حد"
+  ],
+  "queryVariants": [
+    "عملت حادث واتصاب شخص، العقوبة إيه؟",
+    "خبطت حد واتصاب؟",
+    "حادثة فيها إصابة، ممكن يحصل حبس؟",
+    "إصابة خطأ بالعربية عقوبتها؟"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documentId": "TRAF-075-9",
+  "documentTitle": "تغيير بيانات أو لون اللوحات المعدنية لمركبات النقل السريع",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "75/9",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "cc71ebac0d2cb098840229186a5841c5da82d497e50dae1e18db8204dc77e03a",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-024"
+  ],
+  "intents": [
+    "plates_wrong_or_changed"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "لوحة مزورة",
+    "لوحات غير خاصة",
+    "تغيير لون اللوحة",
+    "نمرة"
+  ],
+  "queryVariants": [
+    "لوحات مش بتاعة العربية أو متغير لونها، العقوبة إيه؟",
+    "راكب نمرة عربية تانية؟",
+    "غيرت لون أو بيانات اللوحة؟",
+    "لو اللوحات غير منصرفة من المرور؟"
+  ]
+}

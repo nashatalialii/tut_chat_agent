@@ -1,0 +1,56 @@
+{
+  "documentId": "MOI-RENEW-TERMS",
+  "documentTitle": "شروط تجديد رخصة المركبة إلكترونيًا",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - شروط تجديد رخصة المركبة إلكترونيًا",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/pages/terms-vehicleslicense-renewal.aspx",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "4654bd76c6a519529b6aa5e820bf9628edda2a8925f8d784cffcfaa034aa912f",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_service",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-RENEW-TERMS"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/pages/terms-vehicleslicense-renewal.aspx"
+  ],
+  "faqIds": [
+    "FAQ-EG-037",
+    "FAQ-EG-045",
+    "FAQ-EG-046"
+  ],
+  "intents": [
+    "online_vehicle_renewal",
+    "renewal_delivery_blockers",
+    "vehicle_renewal_payment"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "تجديد أونلاين",
+    "رخصة مركبة",
+    "بوابة مرور مصر",
+    "توصيل الرخصة",
+    "حظر بيع",
+    "فحص",
+    "ملصق إلكتروني",
+    "سداد مخالفات",
+    "براءة ذمة",
+    "تجديد الرخصة"
+  ],
+  "queryVariants": [
+    "ينفع أجدد رخصة العربية أونلاين؟",
+    "تجديد رخصة المركبة من النت؟",
+    "أجدد الرخصة إلكتروني إزاي؟",
+    "هل المرور بيجدد أونلاين؟",
+    "إمتى ما ينفعش رخصة العربية تتوصل للبيت؟",
+    "ليه التجديد الأونلاين مش بيديني توصيل؟"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documentId": "ADMIN-72-ب-2",
+  "documentTitle": "استعمال الأنوار العالية المبهرة/المصابيح الكاشفة بالمخالفة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ب/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "c1250bd2d2bc9bf13065d673500e416a3dc75a56d5df74fa434ad5575ceae13d",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-010"
+  ],
+  "intents": [
+    "high_beam"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "نور عالي",
+    "إبهار",
+    "مصابيح كاشفة",
+    "سحب الرخصة"
+  ],
+  "queryVariants": [
+    "النور العالي المبهر عليه مخالفة؟",
+    "لو شغلت العالي وبهرت العربيات؟",
+    "المصابيح الكاشفة مخالفة؟",
+    "النور العالي ممكن يسحب الرخصة؟"
+  ]
+}

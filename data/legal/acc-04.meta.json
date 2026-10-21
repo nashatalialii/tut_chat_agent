@@ -1,0 +1,45 @@
+{
+  "documentId": "ACC-04",
+  "documentTitle": "إصابة أكثر من ثلاثة أشخاص",
+  "documentType": "other",
+  "lawNumber": "58",
+  "lawYear": "1937",
+  "articleNumber": "عقوبات 244/3",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "قانون العقوبات رقم 58 لسنة 1937 - المواد 238 و244",
+  "sourceUrl": "https://manshurat.org/node/14677",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "2deaab4306f33c30699aaaa75d33c7e85a69eceea886f53c903eb148e2e9ee7b",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "legal_text_database",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-PENAL-58-1937"
+  ],
+  "sourceUrls": [
+    "https://manshurat.org/node/14677"
+  ],
+  "faqIds": [
+    "FAQ-EG-051"
+  ],
+  "intents": [
+    "accident_many_injured"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "أكثر من ثلاثة",
+    "مصابين",
+    "حادث جماعي"
+  ],
+  "queryVariants": [
+    "لو الحادث أصاب أكتر من 3 أشخاص؟",
+    "حادثة فيها أربع مصابين؟",
+    "إصابة أكثر من ثلاثة في حادث؟",
+    "حادث جماعي وإصابات كتير؟"
+  ]
+}

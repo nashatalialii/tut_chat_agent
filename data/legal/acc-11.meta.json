@@ -1,0 +1,47 @@
+{
+  "documentId": "ACC-11",
+  "documentTitle": "تعمد عكس الاتجاه، وإذا نتج عنه أو عن مخالفة الإشارة إصابة/وفاة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "مرور 76 مكررا",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "6031382363ff735a3ac8e1c38fca9d52e7d9e226a1fb0bd91f68e81f454a7262",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "requires_case_assessment",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "تعمد",
+    "عكس",
+    "الاتجاه،",
+    "وإذا",
+    "نتج",
+    "عنه",
+    "مخالفة",
+    "الإشارة",
+    "إصابة",
+    "وفاة"
+  ],
+  "queryVariants": [
+    "لو حصل تعمد عكس الاتجاه، وإذا نتج عنه أو عن مخالفة الإشارة إصابة/وفاة العقوبة إيه؟",
+    "عقوبة تعمد عكس الاتجاه، وإذا نتج عنه أو عن مخالفة الإشارة إصابة/وفاة؟",
+    "تعمد عكس الاتجاه، وإذا نتج عنه أو عن مخالفة الإشارة إصابة/وفاة يحصل فيه إيه؟"
+  ]
+}

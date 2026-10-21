@@ -1,0 +1,46 @@
+{
+  "documentId": "TRAF-074B1-3",
+  "documentTitle": "تعمد التوقف أو السير ببطء شديد على الكباري أو مطالعها/منازلها أو الأنفاق ومداخلها/مخارجها أو تقاطعات الطرق",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "8f04e0cb31c4d28b51a0a009b3d23206e04e3f87bfb03bc0b657be0e087625f9",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-012"
+  ],
+  "intents": [
+    "stop_bridge_tunnel"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "كوبري",
+    "نفق",
+    "توقف",
+    "تقاطعات"
+  ],
+  "queryVariants": [
+    "الوقوف أو البطء على كوبري أو نفق عليه مخالفة؟",
+    "وقفت على الكوبري، إيه العقوبة؟",
+    "المشي ببطء على مطلع كوبري؟",
+    "التوقف داخل النفق مخالف؟"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "documentId": "ADMIN-19",
+  "documentTitle": "عدم نقل قيد المركبة للمالك الجديد خلال 30 يومًا من صيرورة سند الملكية مقبولًا",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "19",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "ea2e1a12ef4210412e1947b12a26674391d1cec685cb23c8bfbce3797c2cbb2a",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-034"
+  ],
+  "intents": [
+    "transfer_ownership_30_days"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "نقل ملكية",
+    "30 يوم",
+    "مالك جديد"
+  ],
+  "queryVariants": [
+    "اشتريت عربية، لازم أنقل الملكية خلال كام يوم؟",
+    "بعد شراء العربية قدامي كام يوم أنقل الترخيص باسمي؟",
+    "نقل ملكية العربية خلال 30 يوم؟",
+    "لو ما نقلتش الملكية بسرعة؟"
+  ]
+}

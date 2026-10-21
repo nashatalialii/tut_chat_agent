@@ -1,0 +1,53 @@
+{
+  "documentId": "ACC-03",
+  "documentTitle": "إصابة خطأ مع عاهة مستديمة، أو إخلال جسيم بأصول المهنة/الوظيفة، أو تعاطي مسكر/مخدر، أو النكول عن مساعدة المصاب مع القدرة",
+  "documentType": "other",
+  "lawNumber": "58",
+  "lawYear": "1937",
+  "articleNumber": "عقوبات 244/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "قانون العقوبات رقم 58 لسنة 1937 - المواد 238 و244",
+  "sourceUrl": "https://manshurat.org/node/14677",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "3abacda5049b43984605f70bb8cff7bb9b4ccfb486ca237a32d2c8617a4824a2",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "legal_text_database",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-PENAL-58-1937"
+  ],
+  "sourceUrls": [
+    "https://manshurat.org/node/14677"
+  ],
+  "faqIds": [
+    "FAQ-EG-050",
+    "FAQ-EG-054"
+  ],
+  "intents": [
+    "accident_permanent_disability",
+    "must_help_injured"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "عاهة مستديمة",
+    "عجز دائم",
+    "إصابة خطأ",
+    "إسعاف المصاب",
+    "الهروب من الحادث",
+    "إبلاغ الشرطة",
+    "الإسعاف"
+  ],
+  "queryVariants": [
+    "لو الحادث عمل عاهة مستديمة للمصاب؟",
+    "إصابة الحادث سببت عجز دائم؟",
+    "عاهة مستديمة في حادث عربية؟",
+    "الحادث تسبب في إصابة خطيرة دائمة؟",
+    "لازم أقف وأسعف المصاب بعد الحادث؟",
+    "لو حصل حادث ينفع أمشي؟"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documentId": "ACC-06",
+  "documentTitle": "قتل خطأ مع إخلال جسيم بأصول المهنة/الوظيفة، أو تعاطي مسكر/مخدر، أو النكول عن مساعدة المجني عليه مع القدرة",
+  "documentType": "other",
+  "lawNumber": "58",
+  "lawYear": "1937",
+  "articleNumber": "عقوبات 238/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "قانون العقوبات رقم 58 لسنة 1937 - المواد 238 و244",
+  "sourceUrl": "https://manshurat.org/node/14677",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "897a57226220505b24991e8b69b2feea619c17a83540a54bf17b6b7150bb99a8",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "legal_text_database",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-PENAL-58-1937"
+  ],
+  "sourceUrls": [
+    "https://manshurat.org/node/14677"
+  ],
+  "faqIds": [
+    "FAQ-EG-054"
+  ],
+  "intents": [
+    "must_help_injured"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "إسعاف المصاب",
+    "الهروب من الحادث",
+    "إبلاغ الشرطة",
+    "الإسعاف"
+  ],
+  "queryVariants": [
+    "لازم أقف وأسعف المصاب بعد الحادث؟",
+    "لو حصل حادث ينفع أمشي؟",
+    "واجب السواق ناحية المصاب إيه؟",
+    "لازم أبلغ الشرطة أو الإسعاف؟"
+  ]
+}

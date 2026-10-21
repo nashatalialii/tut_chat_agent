@@ -1,0 +1,46 @@
+{
+  "documentId": "ADMIN-17",
+  "documentTitle": "تغيير الأجزاء الجوهرية/وجه الاستعمال أو وصف المركبة دون إخطار وموافقة وفحص",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "17",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "35520ce3f64cdee435fbd7b56b3082665e125e6fc4ecbc9f051425febb5a26fd",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-035"
+  ],
+  "intents": [
+    "change_engine_chassis"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "موتور",
+    "شاسيه",
+    "تغيير جوهري",
+    "فحص"
+  ],
+  "queryVariants": [
+    "غيرت موتور أو جزء جوهري في العربية من غير ما أبلغ المرور، يحصل إيه؟",
+    "تغيير الموتور من غير إثبات؟",
+    "غيرت الشاسيه أو وصف العربية؟",
+    "تعديل جوهري في العربية بدون فحص؟"
+  ]
+}

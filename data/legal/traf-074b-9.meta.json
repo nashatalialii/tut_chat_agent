@@ -1,0 +1,50 @@
+{
+  "documentId": "TRAF-074B-9",
+  "documentTitle": "عدم وجود حقيبة إسعافات أولية بالمركبة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/9",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "5afb83b6c17a42e476244d5f302940063891a98e8996e2e398ca5a2fbfd2b4e2",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-020",
+    "FAQ-EG-086"
+  ],
+  "intents": [
+    "first_aid_kit",
+    "no_firstaid_license_withdrawal"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "إسعافات",
+    "شنطة إسعافات",
+    "حقيبة إسعافات",
+    "سحب الرخصة"
+  ],
+  "queryVariants": [
+    "شنطة الإسعافات الأولية إلزامية؟",
+    "لو شنطة الإسعافات مش موجودة؟",
+    "غرامة عدم وجود حقيبة إسعافات؟",
+    "هل الرخصة تتسحب عشان الإسعافات؟",
+    "عدم وجود شنطة الإسعافات ممكن يسحب الرخصة؟",
+    "الرخصة تتسحب لو مفيش إسعافات؟"
+  ]
+}

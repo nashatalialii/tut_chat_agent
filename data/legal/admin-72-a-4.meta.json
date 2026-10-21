@@ -1,0 +1,41 @@
+{
+  "documentId": "ADMIN-72-أ-4",
+  "documentTitle": "عدم توافر شروط الأمن والمتانة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند أ/4",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "046df2ae75b2ee64136919f90a2d6747b294328a0c9e4f3adc30cd3e9c36f6dc",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "توافر",
+    "شروط",
+    "الأمن",
+    "والمتانة"
+  ],
+  "queryVariants": [
+    "إيه الإجراء في حالة عدم توافر شروط الأمن والمتانة؟",
+    "الرخصة يحصل لها إيه لو عدم توافر شروط الأمن والمتانة؟",
+    "لو حصل عدم توافر شروط الأمن والمتانة أعمل إيه؟"
+  ]
+}

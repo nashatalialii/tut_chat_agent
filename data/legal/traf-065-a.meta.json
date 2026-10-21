@@ -1,0 +1,47 @@
+{
+  "documentId": "TRAF-065-A",
+  "documentTitle": "ترك مركبة/مركبة مهملة أو متروكة/أنقاض/حيوانات/أشياء بالطريق العام بما يعرّض الأرواح أو الأموال للخطر أو يعطل/يعوق المرور",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "65",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "4cc1d39cc386f51172fa94529f2428167131b04f25dc97f429cd35546024b33c",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED",
+    "GAZETTE-LAW-17-2024"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973",
+    "https://egyptianlaws.com/?p=189688"
+  ],
+  "faqIds": [
+    "FAQ-EG-081"
+  ],
+  "intents": [
+    "abandoned_vehicle"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مركبة مهملة",
+    "سيارة متروكة",
+    "تعطيل الطريق"
+  ],
+  "queryVariants": [
+    "ترك عربية مهملة في الطريق عليه عقوبة؟",
+    "سيارة متروكة في الشارع؟",
+    "عربية مهملة بتعطل المرور؟",
+    "ترك مركبة في الطريق وتسبب خطر؟"
+  ]
+}

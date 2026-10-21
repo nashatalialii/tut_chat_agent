@@ -1,0 +1,11 @@
+# VoiceTut v11 runtime dependencies beyond CPU PyTorch.
+# OmniVoice and VoiceTut are installed with --no-deps in the Dockerfile so the
+# resolver cannot replace the CPU torch build or drag in the Gradio web stack.
+transformers>=5.3.0,<6
+accelerate>=1.0,<2
+huggingface-hub>=0.34,<3
+numpy>=1.26,<3
+soundfile>=0.12,<1
+librosa>=0.10,<1
+pydub>=0.25,<1
+num2words>=0.5,<1

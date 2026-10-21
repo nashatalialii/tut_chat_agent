@@ -1,0 +1,21 @@
+{
+  "name": "egypt-traffic-rag-bot",
+  "private": true,
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "dev:backend": "pnpm --filter @egypt-traffic/backend dev",
+    "dev:frontend": "pnpm --filter @egypt-traffic/frontend dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint",
+    "ingest": "pnpm --filter @egypt-traffic/backend ingest",
+    "test": "pnpm --filter @egypt-traffic/backend test",
+    "eval:retrieval": "pnpm --filter @egypt-traffic/backend eval:retrieval",
+    "benchmark:models": "pnpm --filter @egypt-traffic/backend benchmark:models",
+    "eval:answers": "pnpm --filter @egypt-traffic/backend eval:answers"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

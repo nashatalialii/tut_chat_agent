@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-075-7",
+  "documentTitle": "تعمد تعطيل حركة المرور بالطرق العامة أو إعاقتها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "75/7",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "d88ce5edeb15c379443aac9e2ae412056ce24002669243f5cd8478ad248aca66",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "requires_case_assessment",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-013"
+  ],
+  "intents": [
+    "traffic_obstruction"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "تعطيل المرور",
+    "إعاقة المرور",
+    "قفل الطريق"
+  ],
+  "queryVariants": [
+    "تعطيل حركة المرور عمدًا عقوبته إيه؟",
+    "قفلت الطريق بالعربية، الغرامة كام؟",
+    "تعمد إعاقة المرور؟",
+    "العربية عطلت الطريق من غير سبب؟"
+  ]
+}

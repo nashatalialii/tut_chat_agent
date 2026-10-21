@@ -1,0 +1,53 @@
+{
+  "documentId": "TRAF-074B3",
+  "documentTitle": "تسيير دراجة آلية أو توك توك أو مركبة خفيفة دون ترخيص، أو دون اللوحات المنصرفة لها، أو باستعمال لوحات غير خاصة بها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/3",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "c4f443a9db764f357f180eccfa5751712900b31386244c305e16f9aa134bfc60",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED",
+    "GAZETTE-LAW-17-2024"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973",
+    "https://egyptianlaws.com/?p=189688"
+  ],
+  "faqIds": [
+    "FAQ-EG-076",
+    "FAQ-EG-077"
+  ],
+  "intents": [
+    "unlicensed_motorcycle",
+    "unlicensed_tuktuk"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "موتوسيكل بدون ترخيص",
+    "مصادرة",
+    "دراجة آلية",
+    "توك توك",
+    "بدون ترخيص"
+  ],
+  "queryVariants": [
+    "موتوسيكل من غير ترخيص ممكن يتصادر؟",
+    "موتوسيكل بدون لوحات؟",
+    "دراجة نارية مش مرخصة؟",
+    "هل المحكمة تصادر الموتوسيكل غير المرخص؟",
+    "التوك توك من غير ترخيص ممكن يتصادر؟",
+    "توك توك بدون لوحات؟"
+  ]
+}

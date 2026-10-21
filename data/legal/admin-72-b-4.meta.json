@@ -1,0 +1,42 @@
+{
+  "documentId": "ADMIN-72-ب-4",
+  "documentTitle": "استعمال المركبة في مواكب خاصة أو تجمعات دون تصريح",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ب/4",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "da6a8a0b3bff81a2b3a16c388bc17883a118b6fe9146b946e588770f79fe1d09",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "استعمال",
+    "مواكب",
+    "خاصة",
+    "تجمعات",
+    "تصريح"
+  ],
+  "queryVariants": [
+    "إيه الإجراء في حالة استعمال المركبة في مواكب خاصة أو تجمعات دون تصريح؟",
+    "الرخصة يحصل لها إيه لو استعمال المركبة في مواكب خاصة أو تجمعات دون تصريح؟",
+    "لو حصل استعمال المركبة في مواكب خاصة أو تجمعات دون تصريح أعمل إيه؟"
+  ]
+}

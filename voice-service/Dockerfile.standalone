@@ -1,0 +1,24 @@
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    PIP_DEFAULT_TIMEOUT=300
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends libgomp1 curl \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY voice-service/requirements-standalone.txt ./requirements-standalone.txt
+RUN --mount=type=cache,target=/root/.cache/pip \
+    pip install --default-timeout=300 --retries 20 --prefer-binary -r requirements-standalone.txt
+
+COPY voice-service/app.py ./app.py
+COPY voice-service/domain_context.py ./domain_context.py
+COPY voice-service/transcript_correction.py ./transcript_correction.py
+COPY voice-service/egyptian_speech.py ./egyptian_speech.py
+
+EXPOSE 5005
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "5005"]

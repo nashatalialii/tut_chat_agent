@@ -1,0 +1,53 @@
+{
+  "documentId": "ADMIN-72-ج-1",
+  "documentTitle": "لوحات غير منصرفة من المرور أو غير ظاهرة/بياناتها غير واضحة/يصعب قراءتها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ج/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "615a7640a201fb6e1a0df1e193d2dce8ebeadc7a5bcd523d621bd0fe1adaf735",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-024",
+    "FAQ-EG-025"
+  ],
+  "intents": [
+    "plates_wrong_or_changed",
+    "unreadable_plates"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "لوحة مزورة",
+    "لوحات غير خاصة",
+    "تغيير لون اللوحة",
+    "نمرة",
+    "لوحة مطموسة",
+    "لوحة غير مقروءة",
+    "نمرة مش واضحة"
+  ],
+  "queryVariants": [
+    "لوحات مش بتاعة العربية أو متغير لونها، العقوبة إيه؟",
+    "راكب نمرة عربية تانية؟",
+    "غيرت لون أو بيانات اللوحة؟",
+    "لو اللوحات غير منصرفة من المرور؟",
+    "النمرة مش واضحة أو مش مقروءة، يحصل إيه؟",
+    "اللوحة مطموسة؟"
+  ]
+}

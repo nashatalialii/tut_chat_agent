@@ -1,0 +1,55 @@
+{
+  "documentId": "MOI-SERVICE-5",
+  "documentTitle": "إجراءات تجديد رخصة تسيير مركبة",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - إجراءات تجديد رخصة تسيير مركبة",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/Pages/ServiceDetails.aspx?ServiceID=5",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "3e53792fc4f66e64ffd5db3dd6ac3f208c8ad0b16e2788674e6409fd6d519c9b",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_service",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-SERVICE-5"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/Pages/ServiceDetails.aspx?ServiceID=5"
+  ],
+  "faqIds": [
+    "FAQ-EG-038",
+    "FAQ-EG-039",
+    "FAQ-EG-046"
+  ],
+  "intents": [
+    "renewal_documents",
+    "inspection_frequency",
+    "vehicle_renewal_payment"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "أوراق التجديد",
+    "مستندات",
+    "براءة ذمة",
+    "تأمين إجباري",
+    "فحص فني",
+    "كل 3 سنوات",
+    "فحص سنوي",
+    "سداد مخالفات",
+    "تجديد الرخصة"
+  ],
+  "queryVariants": [
+    "إيه الأوراق المطلوبة لتجديد رخصة العربية؟",
+    "محتاج إيه لتجديد رخصة المركبة؟",
+    "مستندات تجديد الرخصة؟",
+    "أوراق التجديد في المرور؟",
+    "الفحص الفني للعربية بيتعمل كل قد إيه؟",
+    "العربية الملاكي بتتفحص كل كام سنة؟"
+  ]
+}

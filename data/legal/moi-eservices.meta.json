@@ -1,0 +1,54 @@
+{
+  "documentId": "MOI-ESERVICES",
+  "documentTitle": "بوابة مرور مصر - الخدمات الإلكترونية",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - الخدمات الإلكترونية",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/OurServices/Pages/EServices.aspx?page_id=0.25388087572030393",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "5964ddcf95983809eef18e7e0ba60a1797c47f04270a8a7429a50a248f511a99",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_service",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-TRAFFIC-ESERVICES"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/OurServices/Pages/EServices.aspx?page_id=0.25388087572030393"
+  ],
+  "faqIds": [
+    "FAQ-EG-036",
+    "FAQ-EG-041",
+    "FAQ-EG-042"
+  ],
+  "intents": [
+    "check_fines_online",
+    "lost_driver_license",
+    "damaged_driver_license"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "استعلام مخالفات",
+    "مخالفات أونلاين",
+    "بوابة مرور مصر",
+    "بدل فاقد",
+    "رخصة قيادة",
+    "ضاعت",
+    "بدل تالف",
+    "تالف"
+  ],
+  "queryVariants": [
+    "أستعلم عن مخالفات العربية منين؟",
+    "أعرف مخالفاتي أونلاين إزاي؟",
+    "فين موقع مخالفات المرور؟",
+    "عايز أشوف المخالفات على العربية",
+    "رخصة القيادة ضاعت، أعمل بدل فاقد منين؟",
+    "ضاع مني رخصة السواقة؟"
+  ]
+}

@@ -1,0 +1,170 @@
+name: egypt-traffic-rag-bot
+
+services:
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  chroma:
+    image: chromadb/chroma:latest
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma-data:/chroma/chroma
+    environment:
+      IS_PERSISTENT: "TRUE"
+      ANONYMIZED_TELEMETRY: "FALSE"
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11435:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+
+  voice-service:
+    build:
+      context: .
+      dockerfile: voice-service/Dockerfile
+    ports:
+      - "127.0.0.1:5005:5005"
+    environment:
+      VOICE_SERVICE_PORT: "5005"
+      WHISPER_MODEL: ${WHISPER_MODEL:-small}
+      WHISPER_LANGUAGE: ${WHISPER_LANGUAGE:-ar}
+      WHISPER_CPU_THREADS: ${WHISPER_CPU_THREADS:-4}
+      WHISPER_COMPUTE_TYPE: ${WHISPER_COMPUTE_TYPE:-int8}
+      WHISPER_BEAM_SIZE: ${WHISPER_BEAM_SIZE:-5}
+      WHISPER_BEST_OF: ${WHISPER_BEST_OF:-5}
+      WHISPER_PATIENCE: ${WHISPER_PATIENCE:-1.0}
+      WHISPER_VAD_MIN_SILENCE_MS: ${WHISPER_VAD_MIN_SILENCE_MS:-550}
+      WHISPER_VAD_SPEECH_PAD_MS: ${WHISPER_VAD_SPEECH_PAD_MS:-450}
+      WHISPER_HOTWORDS_MAX_CHARS: ${WHISPER_HOTWORDS_MAX_CHARS:-1200}
+      WHISPER_PROMPT_MAX_CHARS: ${WHISPER_PROMPT_MAX_CHARS:-100}
+      WHISPER_RETRY_LOW_CONFIDENCE: ${WHISPER_RETRY_LOW_CONFIDENCE:-true}
+      WHISPER_RETRY_CONFIDENCE_THRESHOLD: ${WHISPER_RETRY_CONFIDENCE_THRESHOLD:-0.46}
+      WHISPER_RETRY_BEAM_SIZE: ${WHISPER_RETRY_BEAM_SIZE:-7}
+      STT_CORRECTION_ENABLED: ${STT_CORRECTION_ENABLED:-true}
+      STT_CORRECTION_MIN_SCORE: ${STT_CORRECTION_MIN_SCORE:-78}
+      STT_CORRECTION_MIN_MARGIN: ${STT_CORRECTION_MIN_MARGIN:-4}
+      VOICE_KB_DIR: /app/data
+      TTS_PROVIDER: ${TTS_PROVIDER:-edge}
+      EDGE_TTS_VOICE: ${EDGE_TTS_VOICE:-ar-EG-ShakirNeural}
+      EDGE_TTS_RATE: ${EDGE_TTS_RATE:--4%}
+      EDGE_TTS_VOLUME: ${EDGE_TTS_VOLUME:-+0%}
+      EDGE_TTS_PITCH: ${EDGE_TTS_PITCH:-+0Hz}
+      EDGE_TTS_FALLBACK_PIPER: ${EDGE_TTS_FALLBACK_PIPER:-true}
+      EGYPTIAN_SPOKEN_STYLE: ${EGYPTIAN_SPOKEN_STYLE:-true}
+      PIPER_VOICE: ${PIPER_VOICE:-ar_JO-kareem-medium}
+      VOICE_MAX_AUDIO_BYTES: ${VOICE_MAX_AUDIO_BYTES:-10485760}
+      VOICE_MAX_TTS_CHARS: ${VOICE_MAX_TTS_CHARS:-5000}
+    volumes:
+      - voice-models:/models
+      - ./data:/app/data:ro
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:5005/healthz"]
+      interval: 10s
+      timeout: 5s
+      retries: 60
+      start_period: 30s
+    restart: unless-stopped
+
+  voicetut-service:
+    build:
+      context: .
+      dockerfile: voicetut-service/Dockerfile
+    ports:
+      - "127.0.0.1:5010:5010"
+    environment:
+      HF_HOME: /models/huggingface
+      HUGGINGFACE_HUB_CACHE: /models/huggingface/hub
+      VOICETUT_MODEL: ${VOICETUT_MODEL:-mohammedaly22/VoiceTut-TTS}
+      VOICETUT_SPEAKER: ${VOICETUT_SPEAKER:-Mohamed}
+      VOICETUT_DEVICE: ${VOICETUT_DEVICE:-cpu}
+      VOICETUT_DTYPE: ${VOICETUT_DTYPE:-float32}
+      VOICETUT_NUM_STEP: ${VOICETUT_NUM_STEP:-16}
+      VOICETUT_GUIDANCE_SCALE: ${VOICETUT_GUIDANCE_SCALE:-2.0}
+      VOICETUT_SPEED: ${VOICETUT_SPEED:-1.0}
+      VOICETUT_NORMALIZE: ${VOICETUT_NORMALIZE:-true}
+      VOICETUT_AUTO_PRELOAD: ${VOICETUT_AUTO_PRELOAD:-true}
+      EGYPTIAN_SPOKEN_STYLE: ${EGYPTIAN_SPOKEN_STYLE:-true}
+      VOICE_MAX_TTS_CHARS: ${VOICE_MAX_TTS_CHARS:-5000}
+    volumes:
+      - voicetut-models:/models/huggingface
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:5010/healthz"]
+      interval: 15s
+      timeout: 5s
+      retries: 60
+      start_period: 20s
+    restart: unless-stopped
+
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "4000:4000"
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: production
+      REDIS_URL: redis://redis:6379
+      CHROMA_URL: http://chroma:8000
+      OLLAMA_BASE_URL: http://ollama:11434
+      DATA_DIR: /app/data
+      UPLOAD_DIR: /app/data/uploads
+      STT_SERVICE_URL: ${STT_SERVICE_URL:-http://voice-service:5005/transcribe}
+      TTS_SERVICE_URL: ${TTS_SERVICE_URL:-http://voicetut-service:5010}
+      TTS_FALLBACK_SERVICE_URL: ${TTS_FALLBACK_SERVICE_URL:-http://voice-service:5005}
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      redis:
+        condition: service_healthy
+      chroma:
+        condition: service_started
+      ollama:
+        condition: service_started
+      voice-service:
+        condition: service_healthy
+      voicetut-service:
+        condition: service_started
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:4000/healthz"]
+      interval: 10s
+      timeout: 3s
+      retries: 12
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: production
+      NEXT_PUBLIC_TRPC_HTTP_URL: http://localhost:4000/trpc
+      NEXT_PUBLIC_VOICE_WS_URL: ws://localhost:4000/voice
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  redis-data:
+  chroma-data:
+  ollama-data:
+  voice-models:
+  voicetut-models:

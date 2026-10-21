@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-074B-1",
+  "documentTitle": "القيادة بسرعة تقل عن الحد الأدنى المقرر إذا ترتب عليها إعاقة حركة المرور",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "9a5794e9a3be48bdbca596e0f394490304dcc6feeb49b75c34a147c174847964",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-008"
+  ],
+  "intents": [
+    "too_slow_obstruction"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "بطء",
+    "الحد الأدنى",
+    "إعاقة المرور"
+  ],
+  "queryVariants": [
+    "المشي ببطء شديد وتعطيل الطريق مخالفة؟",
+    "لو ماشي أبطأ من الحد الأدنى؟",
+    "المشي ببطء ويعطل الناس عليه غرامة؟",
+    "السرعة القليلة تعتبر مخالفة؟"
+  ]
+}

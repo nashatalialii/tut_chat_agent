@@ -1,0 +1,44 @@
+{
+  "documentId": "MOI-FAQ",
+  "documentTitle": "الأسئلة الشائعة الرسمية للمرور",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - الأسئلة الشائعة",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/Pages/faq.aspx",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "9ff0dde5ad4b2fee320d8f0b3d42594a92194576e9c4a7db935742eeef016767",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_service",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-TRAFFIC-FAQ"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/Pages/faq.aspx"
+  ],
+  "faqIds": [
+    "FAQ-EG-028"
+  ],
+  "intents": [
+    "expired_driving_license"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "رخصة منتهية",
+    "مهلة التجديد",
+    "30 يوم",
+    "رخصة قيادة"
+  ],
+  "queryVariants": [
+    "رخصة القيادة منتهية، عندي مهلة قد إيه للتجديد؟",
+    "بعد انتهاء رخصة السواقة أقدر أجدد خلال كام يوم؟",
+    "فيه سماح بعد انتهاء رخصة القيادة؟",
+    "الرخصة خلصت، التجديد إمتى؟"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-081B4",
+  "documentTitle": "قيادة مركبة لنقل مواد أو سلع أو أدوات أو أشياء محظور تداولها أو نقلها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "81 مكررا/4",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "7b524746d5ed12b1e18d39f85d7fd4f01246d8b6f05f6ff1606979c1c2ea0716",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-073"
+  ],
+  "intents": [
+    "prohibited_goods"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مواد محظورة",
+    "سلع ممنوعة",
+    "نقل"
+  ],
+  "queryVariants": [
+    "نقل مواد أو سلع محظورة بالعربية عقوبته إيه؟",
+    "العربية شايلة حاجات محظور نقلها؟",
+    "نقل مواد ممنوعة بعربية؟",
+    "عقوبة نقل سلع محظورة؟"
+  ]
+}

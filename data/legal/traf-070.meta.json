@@ -1,0 +1,59 @@
+{
+  "documentId": "TRAF-070",
+  "documentTitle": "امتناع سائق الأجرة بلا مبرر عن نقل الركاب، أو عدم تشغيل العداد، أو طلب أجرة أعلى من المقرر، أو زيادة الركاب عن الحد الأقصى، أو تحميل ركاب من غير المواقف المخصصة في الأجرة بدون عداد",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "70",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "dc7bd01b270e07caf2b2e80fe6bf7d647d3949a522644020d4fd3fd6899c5225",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-064",
+    "FAQ-EG-065",
+    "FAQ-EG-066",
+    "FAQ-EG-067"
+  ],
+  "intents": [
+    "taxi_refuse_passenger",
+    "taxi_meter",
+    "taxi_overcharge",
+    "taxi_extra_passengers"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "تاكسي",
+    "أجرة",
+    "رفض المشوار",
+    "امتناع",
+    "عداد",
+    "سيارة أجرة",
+    "أجرة زيادة",
+    "ركاب زيادة",
+    "حمولة ركاب"
+  ],
+  "queryVariants": [
+    "سواق التاكسي ينفع يرفض يركبني من غير سبب؟",
+    "التاكسي رفض المشوار، عليه مخالفة؟",
+    "امتناع سائق الأجرة عن نقل الركاب؟",
+    "السواق قال مش رايح، ده مخالف؟",
+    "سواق التاكسي مشغلش العداد، العقوبة إيه؟",
+    "التاكسي من غير عداد؟"
+  ]
+}

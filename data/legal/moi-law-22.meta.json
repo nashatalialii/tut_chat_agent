@@ -1,0 +1,44 @@
+{
+  "documentId": "MOI-LAW-22",
+  "documentTitle": "مدة تجديد رخصة تسيير المركبة",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - رخص تسيير وقيادة مركبات النقل السريع",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/InteriorMinisterDecision/Pages/Licenses-driving-rapid-transport-vehicles.aspx",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "29106b987fecee95458b61632dd68cd12421eced5e831525cc5da81e4959c391",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_regulation_guidance",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-TRAFFIC-LAW-GUIDANCE"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/InteriorMinisterDecision/Pages/Licenses-driving-rapid-transport-vehicles.aspx"
+  ],
+  "faqIds": [
+    "FAQ-EG-029"
+  ],
+  "intents": [
+    "vehicle_license_renewal_period"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "رخصة مركبة",
+    "رخصة تسيير",
+    "30 يوم",
+    "تجديد"
+  ],
+  "queryVariants": [
+    "رخصة العربية انتهت، قدامي كام يوم أجدد؟",
+    "مهلة تجديد رخصة العربية كام؟",
+    "رخصة التسيير منتهية، التجديد خلال كام يوم؟",
+    "فيه شهر سماح لرخصة العربية؟"
+  ]
+}

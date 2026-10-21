@@ -1,0 +1,46 @@
+{
+  "documentId": "ADMIN-72-ج-2",
+  "documentTitle": "القيادة ليلاً دون الأنوار الأمامية والخلفية/العواكس المقررة أو مع عدم صلاحيتها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ج/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "3147c54aebe33bbcd75cfbbd4a27fdd3c800cbe8b4e79c651c7d3463d801434b",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-087"
+  ],
+  "intents": [
+    "night_no_lights"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "أنوار",
+    "ليل",
+    "سحب الرخصة",
+    "عواكس"
+  ],
+  "queryVariants": [
+    "السواقة بالليل من غير أنوار ممكن تسحب الرخصة؟",
+    "الأنوار الأمامية أو الخلفية مش شغالة؟",
+    "السير ليلًا بدون أنوار؟",
+    "مدة سحب الرخصة بسبب الأنوار؟"
+  ]
+}

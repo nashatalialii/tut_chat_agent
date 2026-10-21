@@ -1,0 +1,49 @@
+{
+  "documentId": "TRAF-074B-8",
+  "documentTitle": "عدم وجود المثلث العاكس للضوء بالمركبة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/8",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "4cae556cbc994683ef2bfc466d0830de46634d57b72b3ca343b95a5afcf51fb3",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-019",
+    "FAQ-EG-085"
+  ],
+  "intents": [
+    "warning_triangle",
+    "no_triangle_license_withdrawal"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مثلث عاكس",
+    "مثلث",
+    "سحب الرخصة"
+  ],
+  "queryVariants": [
+    "المثلث العاكس إلزامي؟",
+    "لو المثلث مش موجود؟",
+    "غرامة عدم وجود مثلث عاكس؟",
+    "هل ممكن الرخصة تتسحب بسبب المثلث؟",
+    "عدم وجود المثلث ممكن يسحب الرخصة؟",
+    "المثلث العاكس وسحب الرخص؟"
+  ]
+}

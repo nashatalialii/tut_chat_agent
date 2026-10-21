@@ -1,0 +1,51 @@
+{
+  "documentId": "ACC-09",
+  "documentTitle": "نتجت إصابة شخص أو أكثر عن مخدر/مسكر أو عكس الاتجاه",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "مرور 76",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "577876f9ef9539fd271494b1fca4117148833d04dd9cc49715a02aa02b49e8a6",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "requires_case_assessment",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-056",
+    "FAQ-EG-059"
+  ],
+  "intents": [
+    "drugs_accident_injury",
+    "wrong_way_injury"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مخدر",
+    "مسكر",
+    "إصابة",
+    "10000",
+    "عكس الاتجاه"
+  ],
+  "queryVariants": [
+    "لو كنت تحت تأثير مخدر والحادث سبب إصابة؟",
+    "متعاطي وعملت حادث فيه مصاب؟",
+    "مخدرات مع إصابة في حادث؟",
+    "حادث إصابة والسائق مخمور أو متعاطي؟",
+    "عكس الاتجاه وتسبب في إصابة، العقوبة إيه؟",
+    "مشيت عكس الاتجاه وخبطت حد؟"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "documentId": "ADMIN-72-ب-7",
+  "documentTitle": "عدم وضع/تثبيت الملصق الإلكتروني أو إتلافه/إخفاؤه/نقله/العبث به",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ب/7",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "7777b966f989cdb46b0b2ab24d7d8af60d6f1761a20c56061db643341da9cfcf",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-022"
+  ],
+  "intents": [
+    "electronic_sticker"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "ملصق إلكتروني",
+    "استيكر إلكتروني",
+    "RFID"
+  ],
+  "queryVariants": [
+    "الملصق الإلكتروني إلزامي؟ وعقوبته إيه؟",
+    "لو الاستيكر الإلكتروني مش موجود؟",
+    "غرامة عدم تركيب الملصق الإلكتروني؟",
+    "لو شلت أو خبيت الملصق؟"
+  ]
+}

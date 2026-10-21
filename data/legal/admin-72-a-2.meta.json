@@ -1,0 +1,45 @@
+{
+  "documentId": "ADMIN-72-أ-2",
+  "documentTitle": "سير مركبات الأجرة خارج المحافظة المرخصة بها دون تصريح",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند أ/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "e90c631bc399bfadb3dca61397031dcd730fff76649c11df0f9d80b8e995abe0",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-069"
+  ],
+  "intents": [
+    "taxi_other_governorate"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "أجرة",
+    "خارج المحافظة",
+    "تصريح"
+  ],
+  "queryVariants": [
+    "عربية أجرة تشتغل بره المحافظة من غير تصريح؟",
+    "تاكسي محافظة تانية من غير تصريح؟",
+    "سير الأجرة خارج المحافظة؟",
+    "هل الرخصة تتسحب لو الأجرة خرجت من المحافظة؟"
+  ]
+}

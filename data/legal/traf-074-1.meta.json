@@ -1,0 +1,53 @@
+{
+  "documentId": "TRAF-074-1",
+  "documentTitle": "عدم الالتزام بالجانب الأيمن من الطريق المعد للسير في الاتجاهين أو السير في مسار مخالف",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "df9d58d684bd7cae57e3e4efb731855760bc3a1c3dcff2d0e69f1b1e0f156f79",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-007",
+    "FAQ-EG-048"
+  ],
+  "intents": [
+    "wrong_lane_side",
+    "repeat_violation"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مسار",
+    "حارة",
+    "اليمين",
+    "اتجاه السير",
+    "عود",
+    "تكرار",
+    "مضاعفة الغرامة"
+  ],
+  "queryVariants": [
+    "السير في المسار الغلط أو عدم الالتزام باليمين عليه غرامة؟",
+    "مشيت في الحارة الغلط، العقوبة؟",
+    "عدم الالتزام بالجانب الأيمن مخالفته كام؟",
+    "لو خالفت اتجاه المسار؟",
+    "لو كررت نفس المخالفة الغرامة بتتضاعف؟",
+    "العود في مخالفات المرور يعني إيه؟"
+  ]
+}

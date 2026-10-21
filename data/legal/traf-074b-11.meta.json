@@ -1,0 +1,46 @@
+{
+  "documentId": "TRAF-074B-11",
+  "documentTitle": "إضافة ملصقات أو معلقات أو كتابة/رسم/رموز/بيانات غير واجبة قانونًا على جسم المركبة أو أجزائها أو لوحاتها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/11",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "23548650a3ae263aefbfee526666bfa9c64bd741068bd2ece4d107fd354800ed",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-017"
+  ],
+  "intents": [
+    "stickers_on_car"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "استيكر",
+    "ملصقات",
+    "كتابة على العربية",
+    "لوحة"
+  ],
+  "queryVariants": [
+    "الاستيكرات والكتابة على العربية مخالفة؟",
+    "ينفع أحط ملصقات على العربية؟",
+    "الكتابة على جسم العربية عليها غرامة؟",
+    "استيكر على اللوحة مخالف؟"
+  ]
+}

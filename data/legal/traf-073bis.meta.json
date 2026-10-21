@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-073BIS",
+  "documentTitle": "استخراج أو استخدام أكثر من رخصة قيادة، أو تغيير حالة الرخصة الأولى بطريق غير مشروع، أو المساعدة في استخراج رخصة بديلة لرخصة مسحوبة/ملغاة على خلاف القانون",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "73 مكررا",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "d16b8872b726ab342b17f4b34c26d45b79e40d3aabb39cb1be40fa3b9929574f",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-030"
+  ],
+  "intents": [
+    "multiple_driving_licenses"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "رخصتين",
+    "أكثر من رخصة",
+    "رخصة بديلة"
+  ],
+  "queryVariants": [
+    "ينفع يكون معايا أكتر من رخصة قيادة؟",
+    "أقدر أطلع رخصتين قيادة؟",
+    "لو عندي رخصة وطلعت واحدة تانية؟",
+    "استخدام أكثر من رخصة قيادة عقوبته؟"
+  ]
+}

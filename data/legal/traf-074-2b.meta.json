@@ -1,0 +1,48 @@
+{
+  "documentId": "TRAF-074-2B",
+  "documentTitle": "عدم اهتمام قائد المركبة بالمصابين أو عدم إبلاغ المرور/الشرطة/الإسعاف فور حادث نتجت عنه إصابات، أو عدم نقل المصاب عند الضرورة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74/2 مع 67",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "25d93d1bada5a7633a8049a0197a2918053a78f838b4f6eed469534b460d82d2",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED",
+    "GAZETTE-LAW-17-2024"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973",
+    "https://egyptianlaws.com/?p=189688"
+  ],
+  "faqIds": [
+    "FAQ-EG-054"
+  ],
+  "intents": [
+    "must_help_injured"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "إسعاف المصاب",
+    "الهروب من الحادث",
+    "إبلاغ الشرطة",
+    "الإسعاف"
+  ],
+  "queryVariants": [
+    "لازم أقف وأسعف المصاب بعد الحادث؟",
+    "لو حصل حادث ينفع أمشي؟",
+    "واجب السواق ناحية المصاب إيه؟",
+    "لازم أبلغ الشرطة أو الإسعاف؟"
+  ]
+}

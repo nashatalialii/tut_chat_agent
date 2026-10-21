@@ -1,0 +1,52 @@
+{
+  "documentId": "TRAF-076-C",
+  "documentTitle": "إذا ترتبت وفاة شخص أو أكثر أو إصابته بعجز كلي على القيادة تحت تأثير مخدر/مسكر أو السير عكس الاتجاه",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "76",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "1bed9b1d3332fb3eff33b97452db1d1ca48faddfec9bfcb9ed1cfaae10ec70b0",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "requires_case_assessment",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-057",
+    "FAQ-EG-060"
+  ],
+  "intents": [
+    "drugs_accident_death",
+    "wrong_way_death"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "مخدر",
+    "مسكر",
+    "وفاة",
+    "20000",
+    "عكس الاتجاه",
+    "عجز كلي"
+  ],
+  "queryVariants": [
+    "لو كنت تحت تأثير مخدر والحادث سبب وفاة؟",
+    "متعاطي وعملت حادث مميت؟",
+    "مخدرات مع وفاة في حادث؟",
+    "حادث وفاة والسائق مخمور؟",
+    "عكس الاتجاه وتسبب في وفاة، العقوبة إيه؟",
+    "مشيت عكس الاتجاه وحصل وفاة؟"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-074B-2",
+  "documentTitle": "استعمال المركبة الآلية في غير الغرض المبين برخصتها",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "74 مكررا/2",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "49ae4b58f67476d380c78ec5f9b90ad9851ce53f169c1276bece5859b88a0dff",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-083"
+  ],
+  "intents": [
+    "use_vehicle_wrong_purpose"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "وجه الاستعمال",
+    "غرض المركبة",
+    "ترخيص"
+  ],
+  "queryVariants": [
+    "استخدام العربية في غير الغرض المكتوب في الرخصة مخالفة؟",
+    "حوّلت استخدام العربية من غير تعديل الرخصة؟",
+    "العربية ملاكي وبتشتغل استخدام مختلف؟",
+    "استعمال المركبة في غير غرضها؟"
+  ]
+}

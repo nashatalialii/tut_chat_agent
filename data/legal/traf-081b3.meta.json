@@ -1,0 +1,45 @@
+{
+  "documentId": "TRAF-081B3",
+  "documentTitle": "السماح بقيادة مركبة لشخص غير مرخص له بالقيادة إذا نجم عن ذلك إصابة أو وفاة أو ضرر للغير",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "81 مكررا/3",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "d49e95d9b07b023ab3fd4856c7758b85fc5fd639ccb3120528b68b568b0fd366",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-061"
+  ],
+  "intents": [
+    "unlicensed_driver_accident_owner"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "سماح لغير مرخص",
+    "صاحب العربية",
+    "بدون رخصة"
+  ],
+  "queryVariants": [
+    "لو اديت العربية لواحد من غير رخصة وعمل حادث؟",
+    "صاحب العربية يتحاسب لو السواق مش مرخص؟",
+    "سمحت لحد بدون رخصة يسوق وعمل إصابة؟",
+    "واحد من غير رخصة عمل حادث بعربيتي؟"
+  ]
+}

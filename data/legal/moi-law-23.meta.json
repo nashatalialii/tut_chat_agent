@@ -1,0 +1,44 @@
+{
+  "documentId": "MOI-LAW-23",
+  "documentTitle": "الفحص الفني ورفض الفحص",
+  "documentType": "other",
+  "articleNumber": "إرشاد/خدمة رسمية",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "بوابة مرور مصر - رخص تسيير وقيادة مركبات النقل السريع",
+  "sourceUrl": "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/InteriorMinisterDecision/Pages/Licenses-driving-rapid-transport-vehicles.aspx",
+  "sourceStatus": "official",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "c4af4a522ca5a4f35db435023f1bcfb29f6ffdc6ff9b1923c54a9ca06b791fb8",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "official_regulation_guidance",
+  "legalStatus": "official_service_guidance",
+  "sourceIds": [
+    "MOI-TRAFFIC-LAW-GUIDANCE"
+  ],
+  "sourceUrls": [
+    "https://traffic.moi.gov.eg/Arabic/OurServices/InfoServices/InteriorMinisterDecision/Pages/Licenses-driving-rapid-transport-vehicles.aspx"
+  ],
+  "faqIds": [
+    "FAQ-EG-040"
+  ],
+  "intents": [
+    "inspection_failed"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "سقوط الفحص",
+    "رفض الفحص",
+    "تصريح مؤقت",
+    "30 يوم"
+  ],
+  "queryVariants": [
+    "لو العربية سقطت في الفحص الفني أعمل إيه؟",
+    "العربية اترفضت في الفحص؟",
+    "لو المركبة مش صالحة في الفحص؟",
+    "هل فيه تصريح مؤقت بعد رفض الفحص؟"
+  ]
+}

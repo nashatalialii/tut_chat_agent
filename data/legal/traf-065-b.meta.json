@@ -1,0 +1,46 @@
+{
+  "documentId": "TRAF-065-B",
+  "documentTitle": "إجراء إنشاءات أو حفر أو تعبيد بالطريق العام دون إخطار المرور أو دون وسائل التحذير المقررة",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "65",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "921e23e52a1f1f09321437e029786fc800a91a612b47ac0a7440f034fb21180b",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [
+    "FAQ-EG-082"
+  ],
+  "intents": [
+    "roadworks_without_notice"
+  ],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "حفر",
+    "أعمال طريق",
+    "تحذير",
+    "إنشاءات"
+  ],
+  "queryVariants": [
+    "حفر أو شغل في الطريق من غير إخطار المرور عقوبته إيه؟",
+    "عمل حفرة في الشارع بدون تحذير؟",
+    "أعمال طريق من غير وسائل تحذير؟",
+    "تعبيد أو إنشاءات بالطريق بدون إخطار؟"
+  ]
+}

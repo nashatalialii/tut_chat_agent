@@ -1,0 +1,42 @@
+{
+  "documentId": "ADMIN-72-ب-1",
+  "documentTitle": "السماح بوجود ركاب على أجزاء المركبة من الخارج",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "بند ب/1",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "520c931212ca88c390f6be5f42fbd84d1166cbc0db4c15877ed5db1397b7fae0",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "السماح",
+    "بوجود",
+    "ركاب",
+    "أجزاء",
+    "الخارج"
+  ],
+  "queryVariants": [
+    "إيه الإجراء في حالة السماح بوجود ركاب على أجزاء المركبة من الخارج؟",
+    "الرخصة يحصل لها إيه لو السماح بوجود ركاب على أجزاء المركبة من الخارج؟",
+    "لو حصل السماح بوجود ركاب على أجزاء المركبة من الخارج أعمل إيه؟"
+  ]
+}

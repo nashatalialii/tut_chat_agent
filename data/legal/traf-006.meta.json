@@ -1,0 +1,47 @@
+{
+  "documentId": "TRAF-006",
+  "documentTitle": "تسيير مقطورة محظور تسييرها (مع استثناء مقطورات الجرارات الزراعية وفق الشروط)",
+  "documentType": "other",
+  "lawNumber": "66",
+  "lawYear": "1973",
+  "articleNumber": "6",
+  "jurisdiction": "Egypt",
+  "language": "ar",
+  "sourceName": "النص المجمع لقانون المرور رقم 66 لسنة 1973 - وفق آخر تعديل مؤكد 28 مارس 2024",
+  "sourceUrl": "https://alhasswalawfirm.com/law-library/law-66-1973",
+  "sourceStatus": "verified",
+  "version": "egypt-traffic-verified-2026-09-22-v2-querysafe",
+  "isCurrent": true,
+  "contentHash": "431c678d654103db33ce55640650e1dd2a2399b9c35999dd94f1fceda68af3c4",
+  "verificationDate": "2026-09-22",
+  "verificationMethod": "cross_checked_against_source_registry",
+  "authorityTier": "consolidated_legal_text",
+  "legalStatus": "current_summary",
+  "sourceIds": [
+    "LEG-TRAFFIC-66-1973-CONSOLIDATED"
+  ],
+  "sourceUrls": [
+    "https://alhasswalawfirm.com/law-library/law-66-1973"
+  ],
+  "faqIds": [],
+  "intents": [],
+  "retrievalOnly": false,
+  "retrievalProfileVersion": "universal-query-v8",
+  "retrievalKeywords": [
+    "تسيير",
+    "مقطورة",
+    "محظور",
+    "تسييرها",
+    "استثناء",
+    "مقطورات",
+    "الجرارات",
+    "الزراعية",
+    "الشروط",
+    "ترخيص"
+  ],
+  "queryVariants": [
+    "ما عقوبة تسيير مقطورة محظور تسييرها (مع استثناء مقطورات الجرارات الزراعية وفق الشروط)؟",
+    "غرامة تسيير مقطورة محظور تسييرها (مع استثناء مقطورات الجرارات الزراعية وفق الشروط) كام؟",
+    "لو حصل تسيير مقطورة محظور تسييرها (مع استثناء مقطورات الجرارات الزراعية وفق الشروط) يحصل إيه؟"
+  ]
+}
